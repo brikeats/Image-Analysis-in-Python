@@ -1,0 +1,7 @@
+Title: Image Analysis in Python
+
+Level: Introductory
+
+Abstract: This workshop will cover fundamental techniques of image and video processing, including filtering, segmentation, interest point detection, template matching, and object tracking. The Python image processing libraries OpenCV and skimage will be introduced, but the emphasis will be on language-agnostic concepts. Several real-world examples and hands-on exercises will demonstrate how these techniques can be assembled into a pipeline to allow researchers to address scientific questions.
+
+Prerequisites: Basic knowledge of python and numpy; Matlab users will also benefit, since the skimage library contains many of the same functions as Matlab's image processing toolbox. No knowledge of image processing is required. Attendees are encouraged to bring a laptop to participate in the hands-on session.
