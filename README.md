@@ -15,3 +15,6 @@ If you have git, you can run the command `git clone https://github.com/brikeats/
 If you don't have git, or it's not working for you for some reason, you can just click the "Download zip" button above and extract the contents.
 
 If you've installed ipython, but you still get `command not found` when you enter `ipython`, you can try the command `python -m IPython notebook`, as shown in [this stackoverflow post.](http://stackoverflow.com/questions/34441943/ipython-installed-but-not-found).
+
+# Connecting via Thinlinc
+[Click here to connect to thinlinc through your browser.](https://midway-login1.rcc.uchicago.edu/main/)
