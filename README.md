@@ -18,6 +18,8 @@ If you've installed ipython, but you still get `command not found` when you ente
 
 # Running the notebook on midway
 
+For those who are missing prerequisites, or can't open ipython for some reason, you can run the notebooks on midway.
+
 * [Click here to connect to thinlinc through your browser.](https://midway-login1.rcc.uchicago.edu/main/) Use your CNET credentials to log on to midway. When you are successful, you should see a blank blue desktop in your browser.
 * Open a terminal by clicking on the black monitor icon at the bottom-left. (It's the third button from the left.) This will open a window and present you with a prompt like `<your user name>@midway-login1:~$ `.
 * Type `cd /project/rcc/brikeats` to change to my project directory.
